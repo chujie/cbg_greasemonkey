@@ -1,0 +1,3 @@
+[submodule "cbg_chrome"]
+	path = cbg_chrome
+	url = https://github.com/chujie/cbg_chrome.git
